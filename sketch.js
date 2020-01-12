@@ -4,8 +4,7 @@ var key = 'pk.eyJ1IjoicmFmZmFlbGVyaWNjYXJkZWxsaSIsImEiOiJjazNpcmZoMzIwYWVzM2NwNm
 var options = {
   lat: 0,
   lng: 0,
-  zoom: 4,
-  maxBounds: bounds,
+  zoom: 3,
   studio: false,
   style: 'mapbox.satellite'
 };
